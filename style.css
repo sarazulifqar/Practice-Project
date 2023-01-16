@@ -1,0 +1,447 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+	margin: 0px;
+	padding: 0px;
+     font-family: 'Poppins', sans-serif;
+}
+.time-4{
+       text-align: right;
+       color: black;
+}
+.para{
+	background-image: url(../images/image-1.png);
+       background-repeat: no-repeat;
+       background-size: cover;
+       background-position: fixed;
+       background-blend-mode: multiply;
+       background-color: #00000070;
+       padding: 0px;
+       margin: 0px;
+       padding-bottom: 320px;
+}
+.about9{
+    position: absolute;
+/*    left: 447px;*/
+    top: 9px;
+    font-size: 21px;
+    color: black;
+    font-weight: 800;
+}
+.flows{
+         font-size: 48;
+        font-family: 'Great Vibes', cursive;
+        color: tan;
+        font-weight: 800;
+}
+.para8{
+         padding-top: 20px;
+}
+.navbar{
+       background-color: black;
+       text-align: right;
+       border:none;
+   }
+   .navbar ul{
+      	display: inline-flex;
+       list-style-type: none;
+       color: white;
+   }
+   .navbar li{
+       width: 100px;
+       padding: 15px;
+   
+   }
+    .navbar a{
+       text-decoration: none;
+       color: white;
+    }
+    .active, .navbar  li:hover{
+       background-color: tan;
+       text-align: center;
+    }
+     
+     
+
+    .heading{
+       color: white;
+       text-align: center;
+       font-size: 60px;
+    }
+    .image {
+       display: inline;
+       padding-left: 10px;
+       object-fit: cover;
+ }
+.images-2{
+    
+    margin-left: 20px;
+        margin-right: 121px;
+            float: right;
+            margin-top: 51px
+}
+
+ .paragraph{
+    float: right;
+    display: inline-block;
+     font-size: 18px;
+     line-height: 1.6;
+
+    }
+   .Services{
+       background-color:#d5d2cd42;
+       padding-top: 100px;
+       padding-bottom: 290px;
+   }
+  /* .h2{
+           padding: 20px;
+   }*/
+   .catering-section{
+    text-align: center;
+        position: relative;
+   }
+   .Services8{
+        font-size: 60px;
+        font-family: 'Great Vibes', cursive;
+        color: tan;
+        font-weight: 800;
+
+   }
+   .head-2{
+        text-align: center;
+       margin-bottom: 24px;
+       margin-top: 212px;
+       position: absolute;
+    left: 386px;
+    top: 100px;
+    font-size: 48px;
+    color: black;
+    font-weight: 800;
+
+   }
+   .Business {
+           display: inline;
+           padding: 5px;
+           padding-left: 80px;
+           font-size: 18px;
+           line-height: 1.6;
+
+   }
+   .business p{
+         padding: 3px;
+
+   }
+   .wedding{
+       display: inline-block;
+       padding: 5px;
+       padding-left: 90px;
+        font-size: 18px;
+        line-height: 1.6;
+   }
+   .float{
+    float: left;
+        padding-top: 50px;
+   }
+   .Birthday{
+            padding: 5px;
+            padding-left: 139px;
+             font-size: 18px;
+             line-height: 1.6;
+                 padding-top: 50px;
+ }
+ .special2{
+   text-align: center;
+    margin-bottom: 24px;
+    margin-top: 212px;
+    position: absolute;
+    left: 478px;
+    top: -179px;
+    font-size: 48px;
+    color: black;
+    font-weight: 800;
+ }
+
+.button{
+    background-color: tan;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    padding: 5px 0px;
+    margin: -15px 26px;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+    font-size: 20px;
+        padding: 7px;
+    }
+    .button {
+  background-color: tan; 
+  color: white; 
+  border: 2px solid tan;
+}
+.button:hover {
+  background-color: white;
+  color: black;
+}
+
+.cards-2{
+/*    width: 300px;*/
+    margin: 33px 154px;
+/*    padding: 40px 40px;*/
+    display: grid;
+    grid-template-columns: 200px 200px 200px 200px;
+/*    grid-template-rows: 200px 200px 200px 200px;*/
+    grid-column-gap: 20px;
+    grid-row-gap: 20px;
+/*        padding-top: 71px;*/
+ }
+ .master1{
+    margin-top: 212px;
+    position: absolute;
+    left: 409px;
+    top: -179px;
+    font-size: 48px;
+    color: black;
+    font-weight: 800;
+ }
+ .beef{
+    line-height: 2.2;
+   font-size: 15px;
+ }
+
+ .chef{
+    margin-top: -178px;
+    text-align: center;
+ }
+ .chef8{
+    padding-top: 30px;
+ }
+.master5{
+    margin-top: 212px;
+    position: absolute;
+    left: 385px;
+    top: -179px;
+    font-size: 48px;
+    color: black;
+    font-weight: 800;
+}
+
+
+.table{
+    
+   /* text-align: center;
+    padding: 28px;*/
+    margin-top: 212px;
+    position: absolute;
+    left: 138px;
+    top: -179px;
+    font-size: 48px;
+    color: black;
+    font-weight: 800;
+}
+input[type=text] ,select{
+     width: 30%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+
+   margin: 38px 10px;
+    padding: 14px 58px;
+}
+.form{
+    margin:-4px 172.5px;
+    padding:1px 65px;
+    background-color: #d5d2cd42;
+}
+.person{
+     width: 30%;
+      padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+
+  margin: 20px 9px;
+    padding: 14px 58px;
+}
+
+.date{
+ width: 30%;
+ padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+ margin: 0px 3px;
+    padding: 14px 46px;
+}
+
+.time{
+  width: 30%;
+ padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+
+   margin: 20px 9px;
+    padding: 14px 58px;
+}
+.far1{
+    
+    display: flex;
+    justify-content: space-around;
+    align-items: cente;
+    flex-wrap: wrap;
+    line-height: 1.2;
+    padding-top: 47px;
+
+}
+.master4{
+    margin-top: 212px;
+    position: absolute;
+    left: 451px;
+    top: -179px;
+    font-size: 48px;
+    color: black;
+    font-weight: 800;
+}
+
+.lives{
+    border-radius: 50px;
+    text-align: center;
+    margin-left: 50px;
+}
+
+
+.button1{
+    background-color: tan;
+    border: none;
+    border-radius: 5px;
+    color: white;
+       padding: 7px;
+    margin: 31px 214px;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+    font-size: 20px;
+    }
+    .button1 {
+  background-color: tan; 
+  color: white; 
+  border: 2px solid tan;
+}
+.button1:hover {
+  background-color: white;
+  color: black;
+}
+.pixels{
+    padding: 13px;
+    line-height: 1.6;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    flex-direction: rows;
+    width: 100%;
+    min-height:100vh ;
+    padding: 0px 0px;
+    background-color:#d5d2cd42 ;
+}
+.taste{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.taste .cards{
+flex: 1;
+box-shadow: 0px 2px 8px 0px rgb(0, 0, 0,0.2) ;
+margin: 20px 20px;
+}
+.taste .cards img{
+    height: 219px;
+    object-fit: cover;
+    width: 332px;
+}
+.taste .cards p{
+    text-align: center;
+        padding: 65px;
+        line-height: 1.6;
+}
+.grid{
+    display: grid;
+    grid-template-columns: 365px 110px 244px 300px;
+    grid-template-rows: 100px 100px 100px;
+    grid-gap: 20px 20px;
+    background-color: black;
+    color: white;
+}
+
+.heading8{
+  padding-top: 85px;
+    line-height: 2.2;
+/*        padding-top: 19px;*/
+}
+.away{
+    padding-top: 45px;
+    line-height: 2.2;
+}
+.button2{
+    background-color: tan;
+    border: none;
+    color: white;
+       padding: 7px;
+    margin: 34px 22px;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+    font-size: 20px;
+    }
+    .button2 {
+  background-color: tan; 
+  color: white; 
+  border: 5px solid tan;
+}
+.button2:hover {
+  background-color: white;
+  color: black;
+}
+.div{
+        padding-left: 10px;
+            padding-top: 19px;
+}
+h3{
+        padding-top: 19px;
+}
+
+
+
+.serr{
+    position: relative;
+    text-align: center;
+
+}
+.ser2{
+    position: absolute;
+}
+.serr4{
+    position: absolute;
+    top: 31px;
+        left: 305px;
+        font-size: 51px;
+}
+.serr6{
+        left: 379px;
+        font-size: 61px;
+}
